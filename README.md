@@ -28,4 +28,4 @@ Alright, off you go. Make us proud!
 
 Once finished with your project, select File > Save now one last time. Then select File > Save to your computer and keep that file so that you can submit it. If prompted by your computer to Open or Save the file, be sure to Save it.
 
-**Finally, go the "repositoty" (this page right here!), and click on "add file". Upload your Scratch file (as an sb3) and "commit" it. It will now show up to me for grading.**
+**Finally, go the "repository" (this page right here!), and click on "add file". Upload your Scratch file (as an sb3) and "commit" it. It will now show up to me for grading.**
